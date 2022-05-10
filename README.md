@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maiya Winter</h1>
 <h3 align="center">An Artist and Full Stack Developer from Colorado, USA</h3>
-
+<!-- <div id="header" align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/C5616AQEM71ankJuX-w/profile-displaybackgroundimage-shrink_200_800/0/1644547346037?e=1657756800&v=beta&t=7JnI514YxigkumHB4DfvU9A5ipfooxndlg6P5QjV35M" width=2100"/>
+</div> -->
 
 # 💫About Me :
 My current projects:
@@ -27,9 +29,6 @@ You can reach me at: **wintermaiya@gmail.com**
 ![](https://github-readme-stats.vercel.app/api?username=WinterMaiya&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WinterMaiya&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterMaiya&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WinterMaiya&icon=0&color=10)](https://visitcount.itsvg.in)
