@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maiya Winter</h1>
 <h3 align="center">An Artist and Full Stack Developer from Colorado, USA</h3>
-<!-- <div id="header" align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C5616AQEM71ankJuX-w/profile-displaybackgroundimage-shrink_200_800/0/1644547346037?e=1657756800&v=beta&t=7JnI514YxigkumHB4DfvU9A5ipfooxndlg6P5QjV35M" width=2100"/>
-</div> -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width=100"/>
+  <img src="https://media.giphy.com/media/ypMHTnPzsKYvYcBOmA/giphy.gif" width=100"/>                                                                                
+</div>
 
 # 💫About Me :
 My current projects:
