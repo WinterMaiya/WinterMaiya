@@ -8,11 +8,8 @@
 My current projects:
 
 - 📖 [The NomNom Book](https://github.com/WinterMaiya/nomnom_book)
-
-I'm currently learning:
-- **Node.js** 
-- **React.js**
-- **Tailwind**
+- 💼 [Jobly FrontEnd](https://github.com/WinterMaiya/Jobly-Frontend)
+- 🧳 [Jobly BackEnd] (https://github.com/WinterMaiya/Jobly-Backend)
 
 My art profile:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maiyawinter)
