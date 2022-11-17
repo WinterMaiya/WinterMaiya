@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maiya Winter</h1>
-<h3 align="center">An Artist and Junior Full Stack Developer from Colorado, USA</h3>
+<h3 align="center">An Artist and Full Stack Developer from Colorado, USA</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="200px"/>                                                                           
 </div>
