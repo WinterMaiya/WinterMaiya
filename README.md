@@ -7,6 +7,7 @@
 # ✨About Me :
 My portfolio projects:
 
+- 🌌 [Personal Portfolio](https://github.com/WinterMaiya/portfolio)
 - 🎥 [Previews+](https://github.com/WinterMaiya/previews-plus)
 - 📖 [The NomNom Book](https://github.com/WinterMaiya/nomnom_book)
 - 💼 [Jobly FrontEnd](https://github.com/WinterMaiya/Jobly-Frontend)
